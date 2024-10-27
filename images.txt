@@ -1,7 +1,4 @@
 nginx
-openjdk:1.8.0
-openjdk:17.0.5
-openjdk:21.0.1
 openjdk:latest
 bitnami/mysql:8.4.2
 redis:7.4.0
