@@ -1,4 +1,6 @@
 nginx
+openjdk:17
+openjdk:21
 openjdk:latest
 
 nacos/nacos-server:v2.2.3
